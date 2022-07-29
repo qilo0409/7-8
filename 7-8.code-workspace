@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\nftweb"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "7-8"
+	}
+}
